@@ -1,4 +1,4 @@
-import{_ as n,c as a,a as e,o as l}from"./app-CXXglS05.js";const p={};function t(o,s){return l(),a("div",null,s[0]||(s[0]=[e(`<p>因为本人懒，非常厌烦路由的重复配置，所以采用了约定式路由的方式，即：只要按照规定在<code>@page</code>目录下创建文件，就能自动生成菜单和路由。并且尽量开放最大的自由度，可以随意搭配。</p><h2 id="目录结构" tabindex="-1"><a class="header-anchor" href="#目录结构"><span>目录结构</span></a></h2><p>目录结构是约定式路由的关键。</p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text" data-title="text"><pre><code><span class="line">@page</span>
+import{_ as n,c as a,a as e,o as l}from"./app-CcfVGgk4.js";const p={};function t(o,s){return l(),a("div",null,s[0]||(s[0]=[e(`<p>因为本人懒，非常厌烦路由的重复配置，所以采用了约定式路由的方式，即：只要按照规定在<code>@page</code>目录下创建文件，就能自动生成菜单和路由。并且尽量开放最大的自由度，可以随意搭配。</p><h2 id="目录结构" tabindex="-1"><a class="header-anchor" href="#目录结构"><span>目录结构</span></a></h2><p>目录结构是约定式路由的关键。</p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text" data-title="text"><pre><code><span class="line">@page</span>
 <span class="line">├── dashboard</span>
 <span class="line">│   └── index.tsx</span>
 <span class="line">├── about</span>

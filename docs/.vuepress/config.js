@@ -53,7 +53,11 @@ export default defineUserConfig({
       },
       {
         text: '进阶服务',
-        link: '/docs/advance/index',
+        link: '/docs/advance/person',
+        children: [
+          { text: "个人服务", link: "/docs/advance/person" },
+          { text: "企业服务", link: "/docs/advance/business" },
+        ]
       },
 
       {

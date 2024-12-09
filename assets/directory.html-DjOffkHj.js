@@ -1,4 +1,4 @@
-import{_ as n,c as l,a as i,o as e}from"./app-D4iVslDl.js";const a={};function c(d,s){return e(),l("div",null,s[0]||(s[0]=[i(`<p><a href="https://github.com/bestycw/react-admin-antd" target="_blank" rel="noopener noreferrer">完整版</a>目录结构说明:</p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text" data-title="text"><pre><code><span class="line">├── .env.*                # 环境变量配置文件</span>
+import{_ as n,c as l,a as i,o as e}from"./app-CXXglS05.js";const a={};function c(d,s){return e(),l("div",null,s[0]||(s[0]=[i(`<p><a href="https://github.com/bestycw/react-admin-antd" target="_blank" rel="noopener noreferrer">完整版</a>目录结构说明:</p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text" data-title="text"><pre><code><span class="line">├── .env.*                # 环境变量配置文件</span>
 <span class="line">│   ├── .env             # 基础环境变量</span>
 <span class="line">│   ├── .env.development # 开发环境变量</span>
 <span class="line">│   ├── .env.production  # 生产环境变量</span>

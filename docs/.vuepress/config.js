@@ -11,7 +11,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'Coffee Admin',
   description: '一个现代化的开箱即用的 React 中后台管理系统模板',
-  base: '/react-admin-antd/',
+  base: '/coffee-react-admin-docs/',
   bundler: viteBundler(),
   theme: defaultTheme({
     logo: '/images/logo.png',

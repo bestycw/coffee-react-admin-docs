@@ -11,11 +11,11 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'Coffee Admin',
   description: '一个现代化的开箱即用的 React 中后台管理系统模板',
-  base: '/',
+  base: '/react-admin-antd/',
   bundler: viteBundler(),
   theme: defaultTheme({
     logo: '/images/logo.png',
-    repo: 'yourusername/react-admin-antd',
+    // repo: 'yourusername/react-admin-antd',
     docsDir: 'docs',
     editLink: true,
     sidebarDepth: 2,

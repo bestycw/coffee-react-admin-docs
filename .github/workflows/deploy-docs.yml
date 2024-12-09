@@ -25,7 +25,7 @@ jobs:
 
       - name: 安装依赖
         run: 
-          npm install -g npm@latest
+          npm ci
           npm install --legacy-peer-deps
           npm install @rollup/rollup-linux-x64-gnu --no-save
 

@@ -32,9 +32,6 @@ pnpm-debug.log*
 
 # Lock files
 # 根据您使用的包管理器，可以选择性地注释掉不需要忽略的锁文件
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
 
 # Environment files
 .env
